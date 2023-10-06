@@ -16,8 +16,6 @@
 
 ![grafik](https://github.com/100UP/windows-install/assets/57064488/98604c32-92c3-49f0-a829-646442eeaa82)
 
-![grafik](https://github.com/100UP/windows-install/assets/57064488/b4331a11-793d-4419-a908-4b78a8e098b1)
-
 ![grafik](https://github.com/100UP/windows-install/assets/57064488/d80728f4-b592-4967-90ca-c43d4f9c58eb)
 
 ### 5. If no disk is visible, load the required drivers
