@@ -68,15 +68,20 @@ Just double click the file
 
 ### 9. Configure network with a static IP
 
-Click on Ethernet -> Properties -> Internet Protocol Version 4 (TCP/IPv4)  
-You can find the IP address and gateways on your VPS IP tab.  
-The Subnet mask is always 255.255.255.255 and you can use 8.8.8.8 as DNS server.
+Click on Ethernet -> Properties -> Internet Protocol Version 4 (TCP/IPv4) -> Properties
 
 ![grafik](https://github.com/100UP/windows-install/assets/57064488/9c43f3d0-f365-48ed-9faa-0d1b6979676a)
+
+![grafik](https://github.com/user-attachments/assets/a6d7a219-ceee-4328-85c6-525f95e92b39)
+
+You can find the IP address and gateways on your VPS IP tab.  
+The Subnet mask is always 255.255.255.255 and you can use 8.8.8.8 as DNS server.
 
 If you get a warning, confirm it with Yes.
 
 ![grafik](https://github.com/100UP/windows-install/assets/57064488/45a47c3a-365f-4353-8265-8bab1e47da6e)
+
+You need to confirm all windows with OK.
 
 ### (Optional) 10. Enable RDP from the internet
 
