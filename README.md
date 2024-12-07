@@ -20,6 +20,8 @@ You likely want to install a Desktop Experience Version
 
 ![grafik](https://github.com/100UP/windows-install/assets/57064488/5ab7ea8d-d875-400e-b8f0-5f0deb5e5be4)
 
+Choose Custom: Install Windows only (advanced)
+
 ![grafik](https://github.com/100UP/windows-install/assets/57064488/d80728f4-b592-4967-90ca-c43d4f9c58eb)
 
 ### 5. If no disk is visible, load the required drivers
